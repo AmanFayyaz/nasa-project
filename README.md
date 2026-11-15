@@ -1,2 +1,3 @@
 # nasa-project
 earth detective
+Earth's environmental system is always changing. When change runs in a consistent direction (rising, falling, increasing, decreasing, thickening, thinning), measured variables reflect it as a trend. A variable can trend one way in one region and the opposite way in another, even when the same process drives both. The challenge is to build a tool that selects variables measured by Earth science missions or produced by Earth science models, visualizes how they change over time, and determines what is changing, where, how much, and whether the change is statistically significant.
